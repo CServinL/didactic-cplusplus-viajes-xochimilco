@@ -1,4 +1,4 @@
-# Viajes- Xochimilco
+# Viajes Xochimilco
 Fundamentos - Algoritmos - C++ 20 - Programación Dinámica
 
 ### Resumen del problema
